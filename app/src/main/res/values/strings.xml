@@ -24,7 +24,7 @@
     <string name="desc15">5.020 mAh \nFast charging 33W</string>
     <string name="desc16">Fitur</string>
     <string name="desc17">USB Type-C \nSensor sidik jari \nDual SIM AI Face unlock \n3,5mm jack headphone</string>
-    <string name="tombol_beli">Beli Langsung</string>
+    <string name="tombol_beli">Buy Now</string>
     <string name="tombol_tocart">Add To Cart</string>
     <string name="tombol_chat">TODO</string>
 </resources>
